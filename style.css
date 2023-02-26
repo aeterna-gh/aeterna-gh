@@ -1,0 +1,17 @@
+* {
+    font-family: Consolas, Monospace;
+    color:white;
+}
+
+body {
+  background-image: url('assets/aegrid_bg.png');
+  background-attachment: fixed;
+}
+
+h1 {
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  border-bottom: 4px white;
+  background:black;
+}
